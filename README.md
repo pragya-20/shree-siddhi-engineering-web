@@ -2,7 +2,7 @@
 
 > A ground-up digital revamp of a family-owned B2B engineering firm's company profile — from a scanned, blurred PDF to a structured, client-ready web presence.
 
-**Live:** _[Vercel URL — add once deployed]_  
+**Live:** _[[Shree Siddhi Engineering Enterprises](https://shree-siddhi-engineering.vercel.app/)]_  
 **Role:** Product Owner  
 **Type:** Real-world client project (family business)
 
